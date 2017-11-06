@@ -17,7 +17,8 @@ public class DemoLamtt {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Lam :))");
-        System.out.println("Hoang dep trai");
+        System.out.println("Hoan[g] xau trai");
+        
     }
     
 }
